@@ -3,6 +3,6 @@
 ### Hooks are used in this app as well as classic redux (not redux toolkit).
 
 # webpage:
-### homepage: https://github.com/Samisny/Counter4Values_Proj_react_2_js
+### homepage: https://samisny.github.io/Counter4Values_Proj_react_2_js/
 
 
