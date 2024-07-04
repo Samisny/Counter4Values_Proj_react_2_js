@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Counter4Values_Proj_react_2_js/static/css/main.5052e052.css",
+    "main.js": "/Counter4Values_Proj_react_2_js/static/js/main.1d936629.js",
+    "index.html": "/Counter4Values_Proj_react_2_js/index.html",
+    "main.5052e052.css.map": "/Counter4Values_Proj_react_2_js/static/css/main.5052e052.css.map",
+    "main.1d936629.js.map": "/Counter4Values_Proj_react_2_js/static/js/main.1d936629.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5052e052.css",
+    "static/js/main.1d936629.js"
+  ]
+}
